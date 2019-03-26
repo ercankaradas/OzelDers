@@ -11,6 +11,7 @@ namespace OzelDers.Controllers
         // GET: Deneme
         public ActionResult Index()
         {
+            int a = 1;
             return View();
         }
     }
